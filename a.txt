@@ -3,3 +3,6 @@ some change done by user01
 second line
 I am rewriting a.txt
 adding some more line
+I am Suchi
+updated by user02
+I am Suchi Kumari
